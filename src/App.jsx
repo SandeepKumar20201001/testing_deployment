@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Products from './Products.jsx'
+import Products from './Products'
 
 function App() {
   var [a,b] = useState(69);
